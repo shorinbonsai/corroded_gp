@@ -1,0 +1,801 @@
+----------------------
+train:	1.0295222e-7
+training mean:	1.7963691e-6
+test:	1.2922118e-7
+size:	6
+depth:	3
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.1623766e-6
+test:	6.7560705e-8
+size:	13
+depth:	6
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.2063389e-6
+test:	6.7560705e-8
+size:	2
+depth:	1
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.2133518e-6
+test:	6.7560705e-8
+size:	2
+depth:	1
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	9.0120716e-7
+test:	6.7560705e-8
+size:	2
+depth:	1
+
+
+----------------------
+train:	6.3685036e-8
+training mean:	9.4788265e-7
+test:	6.937834e-8
+size:	6
+depth:	3
+
+
+----------------------
+train:	6.9597284e-8
+training mean:	9.4349934e-7
+test:	7.770573e-8
+size:	9
+depth:	4
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	8.8374213e-7
+test:	6.7560705e-8
+size:	2
+depth:	1
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	2.5187217e-6
+test:	6.7560705e-8
+size:	10
+depth:	5
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	7.7404275e-7
+test:	6.7560705e-8
+size:	15
+depth:	7
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	7.330957e-7
+test:	6.7560705e-8
+size:	7
+depth:	3
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	5.0497056e-7
+test:	6.7560705e-8
+size:	26
+depth:	8
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	6.290759e-7
+test:	6.7560705e-8
+size:	10
+depth:	4
+
+
+----------------------
+train:	1.0295222e-7
+training mean:	4.428607e-7
+test:	1.2922118e-7
+size:	22
+depth:	9
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	6.5117575e-7
+test:	6.7560705e-8
+size:	28
+depth:	8
+
+
+----------------------
+train:	1.0295222e-7
+training mean:	9.1650054e-7
+test:	1.2922118e-7
+size:	19
+depth:	6
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	2.461043e-6
+test:	6.7560705e-8
+size:	15
+depth:	7
+
+
+----------------------
+train:	5.8313734e-8
+training mean:	4.985538e-7
+test:	9.518851e-8
+size:	25
+depth:	8
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	6.4181603e-7
+test:	6.7560705e-8
+size:	74
+depth:	19
+
+
+----------------------
+train:	6.1046045e-8
+training mean:	4.2832022e-7
+test:	8.228347e-8
+size:	20
+depth:	6
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	3.0063123e-7
+test:	6.7560705e-8
+size:	16
+depth:	6
+
+
+----------------------
+train:	1.0125323e-7
+training mean:	4.3281263e-5
+test:	1.4118737e-7
+size:	52
+depth:	14
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	4.4176167e-7
+test:	6.7560705e-8
+size:	11
+depth:	4
+
+
+----------------------
+train:	5.817599e-8
+training mean:	4.115575e-7
+test:	7.291458e-8
+size:	29
+depth:	7
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	4.887484e-7
+test:	6.7560705e-8
+size:	12
+depth:	5
+
+
+----------------------
+train:	6.9597284e-8
+training mean:	3.9448952e-7
+test:	7.770573e-8
+size:	52
+depth:	12
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	2.0885554e-7
+test:	6.7560705e-8
+size:	77
+depth:	17
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.6333945e-7
+test:	6.7560705e-8
+size:	101
+depth:	20
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	2.5112485e-7
+test:	8.619479e-8
+size:	46
+depth:	20
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	4.1710413e-7
+test:	6.7560705e-8
+size:	28
+depth:	12
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.5056673e-6
+test:	6.7560705e-8
+size:	49
+depth:	15
+
+
+----------------------
+train:	5.825421e-8
+training mean:	2.2200084e-7
+test:	6.7560705e-8
+size:	57
+depth:	16
+
+
+----------------------
+train:	6.543494e-8
+training mean:	3.1138092e-7
+test:	1.10055325e-7
+size:	48
+depth:	16
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.214777e-6
+test:	6.7560705e-8
+size:	76
+depth:	20
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	3.133004e-7
+test:	6.7560705e-8
+size:	48
+depth:	16
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.5109924e-7
+test:	6.7560705e-8
+size:	99
+depth:	19
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	2.5430265e-7
+test:	9.504731e-8
+size:	34
+depth:	11
+
+
+----------------------
+train:	8.975795e-8
+training mean:	2.9120935e-7
+test:	9.322114e-8
+size:	42
+depth:	10
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.9067816e-7
+test:	6.7560705e-8
+size:	52
+depth:	20
+
+
+----------------------
+train:	6.1046045e-8
+training mean:	2.063089e-7
+test:	8.228347e-8
+size:	59
+depth:	18
+
+
+----------------------
+train:	9.2649046e-8
+training mean:	1.39811e-7
+test:	1.12700086e-7
+size:	15
+depth:	6
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.8629063e-7
+test:	6.7560705e-8
+size:	44
+depth:	14
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.3311331e-6
+test:	6.7560705e-8
+size:	21
+depth:	8
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	2.8366617e-7
+test:	6.7560705e-8
+size:	63
+depth:	18
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	6.7816507e-7
+test:	6.7560705e-8
+size:	66
+depth:	14
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.5838673e-7
+test:	1.0622189e-7
+size:	118
+depth:	18
+
+
+----------------------
+train:	5.817599e-8
+training mean:	1.3928461e-7
+test:	7.291458e-8
+size:	170
+depth:	20
+
+
+----------------------
+train:	1.0888113e-7
+training mean:	1.2144262e-7
+test:	1.05774205e-7
+size:	114
+depth:	16
+
+
+----------------------
+train:	6.519258e-8
+training mean:	4.7395855e-7
+test:	7.839402e-8
+size:	84
+depth:	20
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	7.224359e-7
+test:	6.7560705e-8
+size:	73
+depth:	20
+
+
+----------------------
+train:	7.654996e-8
+training mean:	1.0008659e-7
+test:	6.760045e-8
+size:	61
+depth:	13
+
+
+----------------------
+train:	7.361868e-8
+training mean:	2.3220481e-7
+test:	1.3190929e-7
+size:	14
+depth:	6
+
+
+----------------------
+train:	5.8964563e-8
+training mean:	2.198352e-7
+test:	7.112438e-8
+size:	123
+depth:	18
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	2.195925e-7
+test:	6.7560705e-8
+size:	72
+depth:	17
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	2.5963297e-7
+test:	6.7560705e-8
+size:	98
+depth:	16
+
+
+----------------------
+train:	5.825421e-8
+training mean:	2.3440856e-7
+test:	1.0855635e-7
+size:	117
+depth:	20
+
+
+----------------------
+train:	6.9597284e-8
+training mean:	1.9060654e-7
+test:	7.770573e-8
+size:	116
+depth:	17
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.5560131e-7
+test:	6.7560705e-8
+size:	96
+depth:	18
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	5.6475033e-6
+test:	6.7560705e-8
+size:	117
+depth:	18
+
+
+----------------------
+train:	1.0888113e-7
+training mean:	1.8402462e-6
+test:	1.05774205e-7
+size:	164
+depth:	19
+
+
+----------------------
+train:	1.0888113e-7
+training mean:	1.4744826e-7
+test:	1.05774205e-7
+size:	175
+depth:	17
+
+
+----------------------
+train:	1.0888113e-7
+training mean:	1.4281768e-7
+test:	1.05774205e-7
+size:	181
+depth:	20
+
+
+----------------------
+train:	5.8964563e-8
+training mean:	1.3705535e-7
+test:	7.112438e-8
+size:	91
+depth:	17
+
+
+----------------------
+train:	7.8366796e-8
+training mean:	2.862055e-7
+test:	7.480563e-8
+size:	88
+depth:	19
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.4901596e-7
+test:	6.7560705e-8
+size:	15
+depth:	5
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.2538861e-7
+test:	6.7560705e-8
+size:	122
+depth:	17
+
+
+----------------------
+train:	7.1902086e-8
+training mean:	1.5982337e-7
+test:	7.926856e-8
+size:	144
+depth:	20
+
+
+----------------------
+train:	1.1239331e-7
+training mean:	6.823052e-8
+test:	9.2633414e-8
+size:	87
+depth:	18
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.4047517e-7
+test:	6.7560705e-8
+size:	115
+depth:	19
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.936097e-7
+test:	6.7560705e-8
+size:	50
+depth:	12
+
+
+----------------------
+train:	6.186114e-8
+training mean:	1.0790052e-6
+test:	6.98542e-8
+size:	164
+depth:	20
+
+
+----------------------
+train:	1.0888113e-7
+training mean:	8.6392555e-7
+test:	1.05774205e-7
+size:	71
+depth:	10
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.4914585e-7
+test:	6.7560705e-8
+size:	43
+depth:	11
+
+
+----------------------
+train:	5.7353898e-8
+training mean:	1.2955798e-7
+test:	1.2200061e-7
+size:	135
+depth:	20
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	2.525995e-7
+test:	6.7560705e-8
+size:	159
+depth:	19
+
+
+----------------------
+train:	6.484908e-8
+training mean:	1.6850841e-7
+test:	6.584255e-8
+size:	84
+depth:	17
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	2.0422432e-7
+test:	6.7560705e-8
+size:	94
+depth:	15
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	2.4067715e-5
+test:	6.7560705e-8
+size:	290
+depth:	19
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.0751215e-6
+test:	6.7560705e-8
+size:	2
+depth:	1
+
+
+----------------------
+train:	5.825421e-8
+training mean:	2.1190169e-7
+test:	9.306734e-8
+size:	97
+depth:	16
+
+
+----------------------
+train:	5.817599e-8
+training mean:	1.0186281e-7
+test:	7.291458e-8
+size:	19
+depth:	7
+
+
+----------------------
+train:	1.0888113e-7
+training mean:	1.215995e-7
+test:	1.05774205e-7
+size:	121
+depth:	17
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.2795938e-7
+test:	6.7560705e-8
+size:	85
+depth:	16
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	2.4071333e-6
+test:	1.1669678e-7
+size:	106
+depth:	16
+
+
+----------------------
+train:	7.654996e-8
+training mean:	1.960829e-7
+test:	6.760045e-8
+size:	65
+depth:	20
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	9.047222e-8
+test:	6.7560705e-8
+size:	47
+depth:	9
+
+
+----------------------
+train:	5.8964563e-8
+training mean:	2.6506152e-7
+test:	7.112438e-8
+size:	54
+depth:	11
+
+
+----------------------
+train:	5.817599e-8
+training mean:	1.809918e-7
+test:	7.291458e-8
+size:	6
+depth:	3
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.0728849e-7
+test:	6.7560705e-8
+size:	48
+depth:	13
+
+
+----------------------
+train:	5.7535086e-8
+training mean:	1.4255829e-5
+test:	1.3607882e-7
+size:	70
+depth:	11
+
+
+----------------------
+train:	1.08370095e-7
+training mean:	1.1260469e-7
+test:	9.2633414e-8
+size:	37
+depth:	9
+
+
+----------------------
+train:	5.7293374e-8
+training mean:	1.3162779e-7
+test:	6.7560705e-8
+size:	62
+depth:	13
+
+
+----------------------
+train:	6.543494e-8
+training mean:	6.953777e-5
+test:	1.145909e-7
+size:	71
+depth:	17
+
+
+----------------------
+train:	6.543494e-8
+training mean:	1.3100814e-7
+test:	1.145909e-7
+size:	132
+depth:	18
+
+
+----------------------
+train:	7.654996e-8
+training mean:	4.180453e-7
+test:	6.760045e-8
+size:	75
+depth:	14
+
+
+----------------------
+train:	6.543494e-8
+training mean:	1.064911e-7
+test:	1.145909e-7
+size:	58
+depth:	15
+
+
+----------------------
+train:	1.3570651e-7
+training mean:	9.7901475e-6
+test:	1.869219e-7
+size:	25
+depth:	7
+
+
+----------------------
+train:	6.186114e-8
+training mean:	7.5449575e-6
+test:	6.98542e-8
+size:	144
+depth:	16
+
+
+----------------------
+train:	5.8964563e-8
+training mean:	1.4974356e-7
+test:	7.9988176e-8
+size:	49
+depth:	11
+
+
+----------------------
+train:	6.543494e-8
+training mean:	2.417132e-7
+test:	1.145909e-7
+size:	55
+depth:	12
+
+
+sin((/(*(/(x0)(0.70398796))+(sin(/(*(/(sin(x0)sin(x0)+(x0)*(+(x0)sin(x0)-(+(sin(x0)x0)(-0.3576178))x0)+(-(sin((-0.29198968))ln(x0)*(-(+(-(x0)(0.11124039))ln(*((-1))ln((-0.5980156))/(*(x0)x0)(-0.31274164))(-1))/(x0)(-0.15022975))
