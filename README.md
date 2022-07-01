@@ -2,7 +2,8 @@
 
 
 ###Usage
-'''rust
+
+```rust
 fn main() {
     //When establishing dataset need a string for the file path and a float giving what percent to use for testing
     let dataset = Data::new("sin-data.txt", 0.5);
@@ -14,4 +15,4 @@ fn main() {
     gp.init_pop();
     gp.evolve(100);
 }
-'''
+```
