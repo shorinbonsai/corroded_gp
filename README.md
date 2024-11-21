@@ -88,3 +88,4 @@ changes made to the rest of the system in the individual.rs file.
 First of all changes would be made to the Node Enum. Secondly the new function would be added there as well. Third there would need to be additions to the
 node operations, and finally the new function terminal would need to be added to
 the random function method for the Node enum as well.
+.
